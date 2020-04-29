@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StateHandlingInAndroid</string>
+    <string name="base_url">http://dummy.restapiexample.com</string>
+</resources>
